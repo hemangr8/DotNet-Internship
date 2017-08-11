@@ -1,0 +1,4 @@
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentOOPSConcepts8\Student\bin\Debug\Student.dll
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentOOPSConcepts8\Student\bin\Debug\Student.pdb
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentOOPSConcepts8\Student\obj\Debug\Student.dll
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentOOPSConcepts8\Student\obj\Debug\Student.pdb

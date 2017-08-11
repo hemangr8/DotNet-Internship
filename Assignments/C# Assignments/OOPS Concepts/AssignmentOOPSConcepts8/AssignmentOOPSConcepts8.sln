@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentOOPSConcepts8", "AssignmentOOPSConcepts8\AssignmentOOPSConcepts8.csproj", "{B8832039-08C5-446A-A835-91768EE01D78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "Student\Student.csproj", "{76A8C6B4-B3E0-484A-971B-80B274A01F8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8832039-08C5-446A-A835-91768EE01D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8832039-08C5-446A-A835-91768EE01D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8832039-08C5-446A-A835-91768EE01D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8832039-08C5-446A-A835-91768EE01D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A8C6B4-B3E0-484A-971B-80B274A01F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A8C6B4-B3E0-484A-971B-80B274A01F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A8C6B4-B3E0-484A-971B-80B274A01F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A8C6B4-B3E0-484A-971B-80B274A01F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

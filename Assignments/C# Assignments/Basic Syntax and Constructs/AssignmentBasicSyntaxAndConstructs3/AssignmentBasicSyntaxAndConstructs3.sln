@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentBasicSyntaxAndConstructs3", "AssignmentBasicSyntaxAndConstructs3\AssignmentBasicSyntaxAndConstructs3.csproj", "{977A8FE1-CDC5-471E-BD87-942EC5A4AA33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{977A8FE1-CDC5-471E-BD87-942EC5A4AA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977A8FE1-CDC5-471E-BD87-942EC5A4AA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977A8FE1-CDC5-471E-BD87-942EC5A4AA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977A8FE1-CDC5-471E-BD87-942EC5A4AA33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

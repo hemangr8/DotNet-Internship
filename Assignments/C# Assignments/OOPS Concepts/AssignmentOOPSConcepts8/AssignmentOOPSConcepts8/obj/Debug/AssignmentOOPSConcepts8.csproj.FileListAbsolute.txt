@@ -1,0 +1,8 @@
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentOOPSConcepts8\AssignmentOOPSConcepts8\bin\Debug\AssignmentOOPSConcepts8.exe.config
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentOOPSConcepts8\AssignmentOOPSConcepts8\bin\Debug\AssignmentOOPSConcepts8.exe
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentOOPSConcepts8\AssignmentOOPSConcepts8\bin\Debug\AssignmentOOPSConcepts8.pdb
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentOOPSConcepts8\AssignmentOOPSConcepts8\obj\Debug\AssignmentOOPSConcepts8.csprojResolveAssemblyReference.cache
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentOOPSConcepts8\AssignmentOOPSConcepts8\obj\Debug\AssignmentOOPSConcepts8.exe
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentOOPSConcepts8\AssignmentOOPSConcepts8\obj\Debug\AssignmentOOPSConcepts8.pdb
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentOOPSConcepts8\AssignmentOOPSConcepts8\bin\Debug\Student.dll
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentOOPSConcepts8\AssignmentOOPSConcepts8\bin\Debug\Student.pdb

@@ -1,0 +1,6 @@
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\SingletonAssignment\SingletonAssignment\bin\Debug\SingletonAssignment.exe.config
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\SingletonAssignment\SingletonAssignment\bin\Debug\SingletonAssignment.exe
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\SingletonAssignment\SingletonAssignment\bin\Debug\SingletonAssignment.pdb
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\SingletonAssignment\SingletonAssignment\obj\Debug\SingletonAssignment.csprojResolveAssemblyReference.cache
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\SingletonAssignment\SingletonAssignment\obj\Debug\SingletonAssignment.exe
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\SingletonAssignment\SingletonAssignment\obj\Debug\SingletonAssignment.pdb

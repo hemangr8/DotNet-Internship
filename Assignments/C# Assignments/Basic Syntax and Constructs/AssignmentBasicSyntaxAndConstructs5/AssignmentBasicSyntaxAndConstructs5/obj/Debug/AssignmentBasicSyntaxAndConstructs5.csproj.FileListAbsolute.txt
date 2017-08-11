@@ -1,0 +1,5 @@
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentBasicSyntaxAndConstructs5\AssignmentBasicSyntaxAndConstructs5\bin\Debug\AssignmentBasicSyntaxAndConstructs5.exe.config
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentBasicSyntaxAndConstructs5\AssignmentBasicSyntaxAndConstructs5\bin\Debug\AssignmentBasicSyntaxAndConstructs5.exe
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentBasicSyntaxAndConstructs5\AssignmentBasicSyntaxAndConstructs5\bin\Debug\AssignmentBasicSyntaxAndConstructs5.pdb
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentBasicSyntaxAndConstructs5\AssignmentBasicSyntaxAndConstructs5\obj\Debug\AssignmentBasicSyntaxAndConstructs5.exe
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentBasicSyntaxAndConstructs5\AssignmentBasicSyntaxAndConstructs5\obj\Debug\AssignmentBasicSyntaxAndConstructs5.pdb

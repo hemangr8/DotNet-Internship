@@ -1,0 +1,6 @@
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentFileHandling1\AssignmentFileHandling1\bin\Debug\AssignmentFileHandling1.exe.config
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentFileHandling1\AssignmentFileHandling1\obj\Debug\AssignmentFileHandling1.csprojResolveAssemblyReference.cache
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentFileHandling1\AssignmentFileHandling1\bin\Debug\AssignmentFileHandling1.exe
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentFileHandling1\AssignmentFileHandling1\bin\Debug\AssignmentFileHandling1.pdb
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentFileHandling1\AssignmentFileHandling1\obj\Debug\AssignmentFileHandling1.exe
+c:\users\himanshu.upadhyay\documents\visual studio 2012\Program\AssignmentFileHandling1\AssignmentFileHandling1\obj\Debug\AssignmentFileHandling1.pdb

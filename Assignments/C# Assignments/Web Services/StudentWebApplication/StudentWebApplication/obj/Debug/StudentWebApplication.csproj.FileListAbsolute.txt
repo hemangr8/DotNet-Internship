@@ -1,0 +1,6 @@
+c:\users\himanshu.upadhyay\documents\visual studio 2013\Projects\StudentWebApplication\StudentWebApplication\obj\Debug\StudentWebApplication.csprojResolveAssemblyReference.cache
+c:\users\himanshu.upadhyay\documents\visual studio 2013\Projects\StudentWebApplication\StudentWebApplication\bin\StudentWebApplication.dll.config
+c:\users\himanshu.upadhyay\documents\visual studio 2013\Projects\StudentWebApplication\StudentWebApplication\bin\StudentWebApplication.dll
+c:\users\himanshu.upadhyay\documents\visual studio 2013\Projects\StudentWebApplication\StudentWebApplication\bin\StudentWebApplication.pdb
+c:\users\himanshu.upadhyay\documents\visual studio 2013\Projects\StudentWebApplication\StudentWebApplication\obj\Debug\StudentWebApplication.dll
+c:\users\himanshu.upadhyay\documents\visual studio 2013\Projects\StudentWebApplication\StudentWebApplication\obj\Debug\StudentWebApplication.pdb

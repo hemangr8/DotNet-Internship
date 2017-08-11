@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EntityFrameworkAssignment" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Gender" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UserType" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="UsersDBContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <FunctionImport Name="DeleteUsers">
+      <Parameter Name="ID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="InsertUser">
+      <Parameter Name="Name" Mode="In" Type="String" />
+      <Parameter Name="Gender" Mode="In" Type="String" />
+      <Parameter Name="UserType" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="UpdateUser">
+      <Parameter Name="ID" Mode="In" Type="Int32" />
+      <Parameter Name="Name" Mode="In" Type="String" />
+      <Parameter Name="Gender" Mode="In" Type="String" />
+      <Parameter Name="UserType" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+</Schema>

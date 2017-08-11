@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EntityFrameworkAssignmentStoreContainer" CdmEntityContainer="UsersDBContext">
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="EntityFrameworkAssignment.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="UserType" ColumnName="UserType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="EntityFrameworkAssignment.User">
+        <ModificationFunctionMapping>
+          <InsertFunction FunctionName="EntityFrameworkAssignment.Store.InsertUser">
+            <ScalarProperty Name="UserType" ParameterName="UserType" />
+            <ScalarProperty Name="Gender" ParameterName="Gender" />
+            <ScalarProperty Name="Name" ParameterName="Name" />
+          </InsertFunction>
+          <UpdateFunction FunctionName="EntityFrameworkAssignment.Store.UpdateUser">
+            <ScalarProperty Name="UserType" ParameterName="UserType" Version="Current" />
+            <ScalarProperty Name="Gender" ParameterName="Gender" Version="Current" />
+            <ScalarProperty Name="Name" ParameterName="Name" Version="Current" />
+            <ScalarProperty Name="ID" ParameterName="ID" Version="Current" />
+          </UpdateFunction>
+          <DeleteFunction FunctionName="EntityFrameworkAssignment.Store.DeleteUsers">
+            <ScalarProperty Name="ID" ParameterName="ID" />
+          </DeleteFunction>
+        </ModificationFunctionMapping>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="DeleteUsers" FunctionName="EntityFrameworkAssignment.Store.DeleteUsers" />
+    <FunctionImportMapping FunctionImportName="InsertUser" FunctionName="EntityFrameworkAssignment.Store.InsertUser" />
+    <FunctionImportMapping FunctionImportName="UpdateUser" FunctionName="EntityFrameworkAssignment.Store.UpdateUser" />
+  </EntityContainerMapping>
+</Mapping>
